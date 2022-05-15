@@ -2,7 +2,7 @@ package org.gitsample;
 
 public class Company {
 	
-	// Change 2
+	// Change 3
 	private String name;
 	private String address;
 	public String getName() {
