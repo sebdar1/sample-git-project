@@ -2,8 +2,11 @@ package org.gitsample;
 
 public class Employee {
 	
+	// New commeny added
 	private String name;
 	private int age;
+	private int salary;
+	private String city;
 	
 	public String getName() {
 		return name;
