@@ -2,7 +2,6 @@ package org.gitsample;
 
 public class Company {
 
-	//
 	private String name;
 	private String address;
 	public String getName() {
