@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Department {
-	// Change
+	// Change 
 	private String name;
 	private String code;
 }
