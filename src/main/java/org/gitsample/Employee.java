@@ -5,7 +5,7 @@ public class Employee {
 	// Sample change 124
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
 	private String city;
 	
 	public String getName() {
