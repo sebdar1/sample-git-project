@@ -1,11 +1,10 @@
 package org.gitsample;
 
 public class Employee {
-	
-	// Sample change 123
+	// New comment added
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
 	private String address;
 	
 	public String getName() {
