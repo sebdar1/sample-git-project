@@ -2,10 +2,10 @@ package org.gitsample;
 
 public class Company {
 
-	// Change 125
-	// Change 2
 	private String name;
 	private String address;
+	private String city;
+	
 	public String getName() {
 		return name;
 	}
@@ -17,6 +17,10 @@ public class Company {
 	}
 	public void setAddress(String address) {
 		this.address = address;
+	}
+	@Override
+	public String toString() {
+		return "Company [name=" + name + ", address=" + address + "]";
 	}
 	// Just a comment!
 	
