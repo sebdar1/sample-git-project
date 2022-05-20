@@ -3,6 +3,7 @@ package org.gitsample;
 public class Calculator {
 	// Change 1 Commit
 	// Change 2 Commit
+	// Change 3 Commit
 
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
