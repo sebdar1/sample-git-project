@@ -1,8 +1,8 @@
 package org.gitsample;
 
 public class Calculator {
+	// Change 1 Commit
 	
-	// Test comment
 
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
